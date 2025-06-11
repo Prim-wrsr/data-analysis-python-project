@@ -70,11 +70,11 @@ Average Rating:       4.0
 
 **1. Sales by Fat Content** 
 
-    * Low Fat products contribute 65% of total sales, while Regular items account for 35%.
+* Low Fat products contribute 65% of total sales, while Regular items account for 35%.
 
-    * This shows that health-conscious choices may be influencing purchasing behavior.
+* This shows that health-conscious choices may be influencing purchasing behavior.
 
-    * Recommendation: Focus marketing or stock on Low Fat items
+* Recommendation: Focus marketing or stock on Low Fat items
 
 ![Visualization of Blinkit Analysis](images/Sales_by_Fat_Content.png)
 
